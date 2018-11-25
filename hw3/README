@@ -1,0 +1,6 @@
+Data: MNIST (only use 10k of training samples) 
+
+Run the code:
+	> python gd.py True type1 DATA_FOLDER
+
+	> python sgd.py False type2 DATA_FOLDER

@@ -1,0 +1,7 @@
+Data: MNIST (with only 10k of training examples) 
+
+Run the code:
+	> python ./*.py argvs
+
+** NOTE **: The data folder has been moved to hw3
+
